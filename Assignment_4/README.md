@@ -217,8 +217,6 @@ Potential future improvements include:
 
 Data Science & Artificial Intelligence Student
 
-GitHub: [Add your GitHub profile URL]
-
 ---
 
 ## 📚 Dataset Reference
